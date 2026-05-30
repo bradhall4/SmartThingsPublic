@@ -21,3 +21,8 @@
 
 # Build files
 /build
+
+# Skills installed at session start by .claude/hooks/session-start.sh
+/.agents/
+/.claude/skills/
+/skills-lock.json
